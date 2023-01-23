@@ -8,5 +8,8 @@ public class TestMechR {
 	private void mech() {
 		System.out.println("2");
 	}
+	private void cse() {
+System.out.println("k");
+	}
 
 }
