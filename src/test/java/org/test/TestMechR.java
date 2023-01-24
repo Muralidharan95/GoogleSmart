@@ -1,7 +1,7 @@
 package org.test;
 
 public class TestMechR {
-	
+
 	private void eee() {
 		System.out.println("1");
 	}
@@ -10,6 +10,9 @@ public class TestMechR {
 	}
 	private void ece() {
 		System.out.println("3");
+	}
+	private void mechanical() {
+		System.out.println("4");
 	}
 
 }
